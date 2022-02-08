@@ -8,8 +8,10 @@ Project details : The main objective of this project is to handle, explore, anal
 
 
 What is the task?
+
 The task is to build an algorithm that automatically suggests the right product prices. We were provided with user-inputted text descriptions of their products, including details like product category name, brand name, and item condition.
 
 
 What action did I take?
+
 To predict the price, I had to tackle the problem following the standard data science pipelines. I cleaned the noisy data, analyze them, visualized the distribution when necessary, performed feaure engineering, and cross validated the performance using different machine learning algorithms. The actions were well described and demonstrated in the codes.
